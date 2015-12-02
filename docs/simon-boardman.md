@@ -4,3 +4,4 @@
 - Favourite Food: Cheese
 - Hobby: Mountain biking
 - Favourite Colour: Blue
+- Best side: Right
