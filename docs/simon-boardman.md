@@ -1,5 +1,6 @@
-Simon Boardman
-UK
-Cheese
-Mountain biking
-# consider favourite colour?
+## My Bio 
+- Name: Simon Boardman
+- Origin: UK
+- Favourite Food: Cheese
+- Hobby: Mountain biking
+- Favourite Colour: Blue
